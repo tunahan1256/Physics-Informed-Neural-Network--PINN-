@@ -32,7 +32,7 @@ $$
 E_n = \frac{n^2 \pi^2}{2}
 $$
 
-Where \( \hbar \) and \( m \) are set to 1, and \( n \) represents the quantum energy states.
+Where \( $\hbar$ \) and \( m \) are set to 1, and \( n \) represents the quantum energy states.
 
 ---
 
